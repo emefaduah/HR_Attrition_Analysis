@@ -5,7 +5,7 @@ An attrition analysis to investigate why a company  kept loosing top talents. By
 *![HR1](https://user-images.githubusercontent.com/120526771/233426932-26b8ef40-8f5b-4a27-a18a-11088c22eeea.PNG)
 
 # Problem Statement
-A company in the US was loosing top talent each year and wanted to find out why and give them recommendations 
+A company in the US was loosing top talent each year and wanted to find out why and give them recommendations on how to reduce attrition in the company
 
 # Data 
 The data contains informations on employees from 1/9/2006 - 7/9/2018. The HR data is available in the repository
