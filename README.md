@@ -19,6 +19,10 @@ Power BI
 * Used DAX to create new measures, calculated columns and tables
 * Created the report on in Power BI
 
+This is the DAX formula I used to calculate the attrition rate
+![atrri](https://user-images.githubusercontent.com/120526771/233624576-6fd9e819-db3e-4744-9954-8ca9f8761e28.PNG)
+
+
 # Dashboard on Attrition 
 ![HR2](https://user-images.githubusercontent.com/120526771/233429737-dd2d83a8-df93-4347-a899-8bbe5f4de049.PNG)
 
